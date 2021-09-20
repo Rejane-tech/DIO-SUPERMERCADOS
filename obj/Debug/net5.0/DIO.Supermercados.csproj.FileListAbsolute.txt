@@ -1,0 +1,16 @@
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.csproj.AssemblyReference.cache
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.AssemblyInfoInputs.cache
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.AssemblyInfo.cs
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.csproj.CoreCompileInputs.cache
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.exe
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.deps.json
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.runtimeconfig.json
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.runtimeconfig.dev.json
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.dll
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\ref\DIO.Supermercados.dll
+C:\Users\rejan\DIO.Supermercados\bin\Debug\net5.0\DIO.Supermercados.pdb
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.dll
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\ref\DIO.Supermercados.dll
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.pdb
+C:\Users\rejan\DIO.Supermercados\obj\Debug\net5.0\DIO.Supermercados.genruntimeconfig.cache
